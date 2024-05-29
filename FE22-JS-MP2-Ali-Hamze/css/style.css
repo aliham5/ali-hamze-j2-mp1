@@ -1,0 +1,42 @@
+div{
+    margin-top: 50px;
+}
+
+.ichoose{
+    color:blueviolet;
+    font-size: 150%;
+}
+
+.computerchoice{
+    color: blue;
+    font-size: 150%;
+}
+
+.computerscore{
+    font-size: 150%;
+}
+
+.myscore{
+    font-size: 150%;
+}
+
+
+body{
+    background-color: aquamarine;
+}
+
+#ange{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+
+
+
+img{
+    height: 60px;
+    width: 60px;
+}
+
